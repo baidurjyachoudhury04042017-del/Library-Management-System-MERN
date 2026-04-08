@@ -8,3 +8,4 @@
 - Commit 6: Add changelog entry 6.
 - Commit 7: Add changelog entry 7.
 - Commit 8: Add changelog entry 8.
+- Commit 9: Add changelog entry 9.
