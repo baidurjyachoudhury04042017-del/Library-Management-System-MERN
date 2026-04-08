@@ -10,3 +10,4 @@
 - Commit 8: Add changelog entry 8.
 - Commit 9: Add changelog entry 9.
 - Commit 10: Add changelog entry 10.
+- Commit 11: Finalize the 10 fresh commit sequence.
