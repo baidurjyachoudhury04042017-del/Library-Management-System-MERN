@@ -5,3 +5,4 @@
 - Commit 3: Add changelog entry 3.
 - Commit 4: Add changelog entry 4.
 - Commit 5: Add changelog entry 5.
+- Commit 6: Add changelog entry 6.
